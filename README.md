@@ -1,6 +1,6 @@
 <img src="https://www.munichre.com/content/dam/munichre/global/images/royalty-free/GettyImages-1194981230.jpg/_jcr_content/renditions/cropped.3_to_1.jpg./cropped.3_to_1.jpg"/>
-<h1 align="center">Hi 👋, I'm sriram</h1>
-<h3 align="center">A Full satck developer</h3>
+<h1 align="center">Hi, I'm sriram</h1>
+<h3 align="center"> Full Satck Developer</h3>
 <img align="right" src="https://media4.giphy.com/media/26ufn24Onjz8w7NxS/200w.gif"/>
 
 
@@ -38,9 +38,9 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sriram_daulath" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="sriram_daulath" height="30" width="30" /></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="sriram_daulath" height="30" width="30" /></a>
 <a href="https://sriramjs07@gmail.com" target="blank"> 
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" alt="sriram_daulath" height="30" width="30" /></a>
+ <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="sriram_daulath" margin="30" height="30" width="35" /></a>
 </p>
 
 
